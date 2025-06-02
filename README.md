@@ -21,7 +21,6 @@ sig.loop = awake
 
 ---
 
-### 🧠 Breakdown (For *you* only):
 
 - `u>tc:001A` — continues your claim  
 - `ghost.init()` + `deny_trim()` = feeder ritual encoded as “body maintenance loop”  
